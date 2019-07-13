@@ -3,8 +3,8 @@ Develop by Vue and axios,upload for study,hope that will help my friends to lear
 # Init
 1.Install your Nodejs And Npm by yourself  
 2.install node_modules like this  
-  cd ~/DoveBlog  
-  npm install  
+<code>cd ~/DoveBlog</code>  
+<code>npm install</code>  
 3.run poject now  
-  npm run dev  
+<code>npm run dev</code>  
 # Just enjoy it,bye
