@@ -12,7 +12,7 @@ module.exports = {
         assetsPublicPath: '/',
         proxyTable: {
             '/Home': {
-                target: 'http://blog.zdldove.top', //目标接口域名
+                target: 'https://blog.zdldove.top', //目标接口域名
                 changeOrigin: true, //是否跨域
             },
         },
